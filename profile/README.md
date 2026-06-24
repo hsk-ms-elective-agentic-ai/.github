@@ -13,3 +13,9 @@ All course communication goes through **[Discord](https://discord.gg/c89VTuMRQ)*
 ## Once you're on a team
 
 Your team gets its own private repository (generated from `Ms_Elective_KI`), visible to you here in this organization once your instructor adds you. That's where you'll actually work for every exercise and the team assignment.
+
+## Free student perks
+
+Get the **[GitHub Student Developer Pack](https://education.github.com/pack)** — free GitHub Pro, Codespaces benefits, cloud credits (Azure, MongoDB Atlas, and more), JetBrains IDEs, and 50+ other developer tools, at no cost with student verification. (Its GitHub Copilot benefit specifically shows new sign-ups as temporarily paused right now — everything else in the pack is unaffected and worth getting regardless.)
+
+Separately, **[GitHub Copilot Free](https://github.com/features/copilot)** is available on any GitHub account automatically, no student verification needed — a smaller usage allowance than a paid plan, but genuinely free, today, with zero setup.
