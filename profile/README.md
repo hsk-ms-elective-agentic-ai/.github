@@ -2,9 +2,14 @@
 
 Welcome! This organization hosts the hands-on exercises and team assignment for **Aktuelle Fallstudien der Digitalökonomie und der Künstlichen Intelligenz: Generative und Agentische KI**.
 
+## Prerequisites
+
+1. **Get a GitHub account** — free, just an email signup, if you don't already have one.
+2. **Submit it**: open a [team sign-up issue](https://github.com/hsk-ms-elective-agentic-ai/Ms_Elective_KI/issues/new?template=team-signup.yml) with your email and GitHub username. Your instructor reviews it and adds you to your team manually (not instant) — accept the invite once it arrives.
+
 ## Start here
 
-👉 **[Ms_Elective_KI](https://github.com/hsk-ms-elective-agentic-ai/Ms_Elective_KI)** — the course template: read its README for prerequisites, the team sign-up flow, the exercises, and the team assignment.
+👉 **[Ms_Elective_KI](https://github.com/hsk-ms-elective-agentic-ai/Ms_Elective_KI)** — the course template: read its README for full details, the exercises, and the team assignment.
 
 ## Questions?
 
